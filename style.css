@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    justify-content:space-between;
+    border:solid;
+ }
+
+ .menu{
+    color:brown;   
+}
+
+.heading{
+   margin-left: 30%;
+}
+
+.clear2{
+    font-size: 150%;
+}
+
+.clear1{
+    font-size: 250%;
+}
+
+.item{
+    margin-top: 1cm;
+}
+
+.image{
+ padding: 100cm;
+}
